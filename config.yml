@@ -1,0 +1,9 @@
+network-id: 2020
+api-addr: :8080
+p2p-addr: :7070
+debug-api-addr: 127.0.0.1:6060
+debug-api-enable: true
+swap-enable: false
+bootnode: ""
+data-dir: /tmp/bee/node1
+password: password
